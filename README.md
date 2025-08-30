@@ -5,9 +5,10 @@
 _“This is not just documentation. It's the fossil record of a newborn cognitive system.”_
 
 **Quick links**
-- Equilibrium (α): [EarthLight-α/α-a_Core_Equilibrium.md](EarthLight-α/α-a_Core_Equilibrium.md)
-- Defense & Betrayal (α sub): [EarthLight-α/α-b_Risk_Defense_BlankOK.md](EarthLight-α/α-b_Risk_Defense_BlankOK.md) / [EarthLight-α/α-c_Betrayal_Model.md](EarthLight-α/α-c_Betrayal_Model.md)
-- Backcasting (β): [EarthLight-β/β-a_Backcasting.md](EarthLight-β/β-a_Backcasting.md)
+- Equilibrium (α): [EarthLight/EarthLight-α/α-a_Core_Equilibrium.md](EarthLight/EarthLight-α/α-a_Core_Equilibrium.md)
+- Risk-First Defense (α sub): [EarthLight/EarthLight-α/α-b_Risk_Defense_BlankOK.md](EarthLight/EarthLight-α/α-b_Risk_Defense_BlankOK.md) 
+- Betrayal (α sub): [EarthLight/EarthLight-α/α-c_Betrayal_Model.md](EarthLight/EarthLight-α/α-c_Betrayal_Model.md)
+- Backcasting (β): [EarthLight/EarthLight-β/β-a_Backcasting.md](EarthLight/EarthLight-β/β-a_Backcasting.md)
 - Examples & script: [Data/examples/cases.csv](Data/examples/cases.csv) / [src/calc.py](src/calc.py)
 - Tests: [tests/](tests/)
 - [How to run](#how-to-run)
