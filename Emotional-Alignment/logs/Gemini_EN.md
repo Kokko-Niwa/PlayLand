@@ -73,6 +73,7 @@ Here is my analysis of the three lines you provided.
 ---
 
 **User:**
+
 What do you think—does the way I write make it possible to trace the emotion?
 If I (or really, anyone using this writing style) pair that kind of expressive text with voice data, don’t you think AIs could start learning to interpret emotion from audio?
 
