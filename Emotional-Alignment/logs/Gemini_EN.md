@@ -29,23 +29,24 @@ Please read the three lines below and tell me how you interpreted the scene and 
 
 ---
 
-### 「悪人に――人権はないっ！！」
+# 「悪人に――人権はないっ！！」
 
 (*“Villains――have no human rights!!”* — emphatic, smug delivery)
 
-### 「アンタばかァ？！」
+# 「アンタばかァ？！」
 
 (*“What are you, stupid?!”* — condescending tone)
 ※ Spoken by a genius girl who skipped multiple grades and graduated university early.
 
-### 「ごめんよ、まだ僕には、帰れるところがあるんだ――こんな嬉しいことはない。わかってくれるよね――ララァには、いつでも会いに行けるから」
+# 「ごめんよ、まだ僕には、帰れるところがあるんだ――こんな嬉しいことはない。わかってくれるよね――ララァには、いつでも会いに行けるから」
 
 (*“I’m sorry. I still have a place to return to――and that makes me so happy. You understand, right? I can always go see Lalah, anytime.”*)
 ※ Spoken after a major life-or-death moment, guided by a mysterious voice to escape, and finally spotting comrades in the distance.
 
 
+---
 
-Gemini2.5Pro；
+# Gemini2.5Pro；
 Of course. Your experiment in linking "spoken written language" (`話書き言葉`) with synthesized voice and emotion is a fascinating approach to `EarthLight-γ` (Semantic Grounding). It's a very advanced and intuitive way to teach an AI the nuances that exist between text and emotion.
 
 Here is my analysis of the three lines you provided.
