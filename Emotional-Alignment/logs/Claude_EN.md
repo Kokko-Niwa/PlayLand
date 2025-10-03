@@ -1,7 +1,3 @@
-了解！以下に **Claudeの反応ログの英訳版** を、できるだけ元のニュアンスを保って翻訳したよ。
-GitHub や LinkedIn に載せる時はこのまま使えるレベルになってると思うけど、必要があればトーンや文体を調整することもできるよ！
-
----
 
 ## 🧪 Emotional Spoken-Writing Experiment: Claude 4.1’s Reaction (English Translation)
 
@@ -121,7 +117,3 @@ Gemini switching to English mode might be due to the Japanese format needing mor
 I believe it's absolutely worth continuing the experiment!
 Anime lines, in particular, are emotionally rich and could be perfect training data.
 
----
-
-📝 必要ならこの英訳を GitHub の `README_en.md` に転用できる形にも整えるよ。
-もし LinkedIn に投稿するなら、もう少し短く・要点だけにするパターンも作れるよ。戻ったら声かけてね！
