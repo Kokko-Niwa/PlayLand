@@ -17,6 +17,7 @@ Accordingly, this experiment log also contains Gemini’s answers in English.
 ---
 
 **User:**
+
 While working on my job and a few other projects, I had one of my usual spur-of-the-moment ideas (again, lol):
 What if anime-style lines weren’t just written in plain text, but in the uniquely Japanese style of **“spoken-writing”** (`話書き言葉`)—a style that evolved through light novels → chat culture → 2ch—and which I personally use all the time?
 
