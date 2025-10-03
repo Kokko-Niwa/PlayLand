@@ -1,7 +1,9 @@
 
 ## 🧪 Emotional Spoken-Writing Experiment: Claude 4.1’s Reaction (English Translation)
 
+
 **User:**
+
 This is a bit off-topic, but while multitasking at work, I suddenly thought of something (again, impulsively lol):
 If I rewrote anime-style lines using Japan’s unique “spoken-writing style” (a tone that evolved from light novels to chatrooms to 2ch, and the same tone I always use for input), and paired it with actual voice audio, maybe AI could learn to link voice to emotion?
 Apparently, according to several AIs, this might be something *pretty groundbreaking*.
@@ -55,6 +57,7 @@ The use of sound elongation, pauses, and punctuation evokes vocal tone and even 
 ---
 
 **User:**
+
 I figured… if I prepare enough pairs of voice lines and this kind of "spoken-writing" text, maybe AI can learn to read emotions from voices more accurately?
 
 You see, Japanese “spoken-writing” developed between the late 1990s and early 2000s to convey emotion in chats.
