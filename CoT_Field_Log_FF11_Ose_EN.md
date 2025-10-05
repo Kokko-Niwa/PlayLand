@@ -18,7 +18,7 @@ resource constraints and uncertain team dynamics — an example of **emergent eq
 
 | Role | Job | Notes |
 |------|------|-------|
-| Tank | Paladin | Main defense, uses Invincible, NA players |
+| Tank | Paladin | Main defense, uses Invincible, NA player |
 | Support | Red Mage | MP-limited, Convert x2 used |
 | Healer | White Mage (User) | Resource manager, final decision maker |
 | Others | Dark Knight / Warrior / Thief | High-DPS NA players |
