@@ -58,7 +58,7 @@ RDM Convert cycle ≈ 10 min
 - Maintain steady status removal and MP tick via Refresh.
 
 6. **Crisis Coordination:**  
-- Confirm Convert ready: “コンバある？” → “あります.”  
+- Confirm Convert ready: “コンバある？” (*"Convert ready?"*) → “あります.” (*"Yes, ready."*)   
 - Move forward to cover all party members in *Benediction* range.  
 - RDM moves instinctively closer → perfect alignment.  
 - Trigger **Benediction** → Full HP recovery → massive hate spike.  
