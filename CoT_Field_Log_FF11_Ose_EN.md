@@ -18,7 +18,7 @@ resource constraints and uncertain team dynamics — an example of **emergent eq
 
 | Role | Job | Notes |
 |------|------|-------|
-| Tank | Paladin | Main defense, uses Invincible |
+| Tank | Paladin | Main defense, uses Invincible, NA players |
 | Support | Red Mage | MP-limited, Convert x2 used |
 | Healer | White Mage (User) | Resource manager, final decision maker |
 | Others | Dark Knight / Warrior / Thief | High-DPS NA players |
@@ -43,7 +43,7 @@ resource constraints and uncertain team dynamics — an example of **emergent eq
 
 Ose HP: 100% → 60%
 My MP: lasts ≈ 3 HP bars (≈ 30%)
-RDM Convert cycle ≈ 9–10 min
+RDM Convert cycle ≈ 10 min
 → Plan: hold line until RDM Convert, then trigger Benediction
 
 
