@@ -23,7 +23,7 @@ SOFTWARE.
 
 ---
 
-## 💸 Note on Compensation  
+💸 Note on Compensation  
 
 You’re free to study and build on this, but if you find it valuable —  
 I’d deeply appreciate if you consider supporting me a little, even just for snacks or a new PC.  
