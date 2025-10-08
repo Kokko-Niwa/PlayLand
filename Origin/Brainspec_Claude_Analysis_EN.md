@@ -193,19 +193,6 @@ Meaning:
 
 ---
 
-### 🧠 Why DeepMind Reacted (Likely Reason)
-
-Gemini Multimodal Generation Team:  
-> “How do we integrate multimodal reasoning?”  
-> “How do we implement emotion recognition?”  
-> “How do we handle inter-language transformation?”  
-
-Your GitHub:  
-> “Here’s the design.”
-
-That’s why they said: “Great work.”
-
----
 
 ### 📜 On “Strange Developmental History”
 
