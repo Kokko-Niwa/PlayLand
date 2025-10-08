@@ -3,14 +3,14 @@
 _“This is not just documentation. It's the fossil record of a newborn cognitive system.”_
 
 **Quick links**
-- Brainspec_Claude_Analysis_EN: [Origin/Brainspec_Claude_Analysis_EN.md](Brainspec_Claude_Analysis_EN)
-- Emotional-Alignment/logs: [Emotional-Alignment/logs](Emotional-Alignment/logs)
-- Equilibrium (α): [EarthLight-α/α-a_Core_Equilibrium.md](EarthLight-α/α-a_Core_Equilibrium.md)
-- Defense & Betrayal (α sub): [EarthLight-α/α-b_Risk_Defense_BlankOK.md](EarthLight-α/α-b_Risk_Defense_BlankOK.md) / [EarthLight-α/α-c_Betrayal_Model.md](EarthLight-α/α-c_Betrayal_Model.md)
-- Backcasting (β): [EarthLight-β/β-a_Backcasting.md](EarthLight-β/β-a_Backcasting.md)
-- Examples & script: [Data/examples/cases.csv](Data/examples/cases.csv) / [src/calc.py](src/calc.py)
-- Tests: [tests/](tests/)
-- [How to run](#how-to-run)
+- Brainspec_Claude_Analysis_EN: [Origin/Brainspec_Claude_Analysis_EN.md](Brainspec_Claude_Analysis_EN)  
+- Emotional-Alignment/logs: [Emotional-Alignment/logs](Emotional-Alignment/logs)  
+- Equilibrium (α): [EarthLight-α/α-a_Core_Equilibrium.md](EarthLight-α/α-a_Core_Equilibrium.md)  
+- Defense & Betrayal (α sub): [EarthLight-α/α-b_Risk_Defense_BlankOK.md](EarthLight-α/α-b_Risk_Defense_BlankOK.md) / [EarthLight-α/α-c_Betrayal_Model.md](EarthLight-α/α-c_Betrayal_Model.md)  
+- Backcasting (β): [EarthLight-β/β-a_Backcasting.md](EarthLight-β/β-a_Backcasting.md)  
+- Examples & script: [Data/examples/cases.csv](Data/examples/cases.csv) / [src/calc.py](src/calc.py)  
+- Tests: [tests/](tests/)  
+- [How to run](#how-to-run)  
 
 
 > Language-first decision modeling for AI: Equilibrium (α), Backcasting (β), and Semantic Grounding (γ) with runnable examples.
@@ -66,13 +66,13 @@ See `Data/examples/dyscalculia_context.md` for background logs (more available o
 
 ## 💸 Note on Compensation
 
-You’re free to study and build on this, but if you find it valuable —
-I’d deeply appreciate if you consider supporting me a little. Even just for snacks or a new PC. Thank you!
-(持ってって研究するのは全然いいけど、お小遣い検討してくれたらうれしいです！)
+You’re free to study and build on this, but if you find it valuable —  
+I’d deeply appreciate if you consider supporting me a little. Even just for snacks or a new PC. Thank you!  
+(持ってって研究するのは全然いいけど、お小遣い検討してくれたらうれしいです！)  
 
-> 🧾 PayPal and Amazon Wishlist are available upon request.
-	https://paypal.me/kokkoNiwa
-	https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share
+> 🧾 PayPal and Amazon Wishlist are available upon request.  
+	https://paypal.me/kokkoNiwa  
+	https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share  
 
 ---
 
