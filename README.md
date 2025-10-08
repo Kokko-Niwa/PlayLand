@@ -1,14 +1,13 @@
-# PlayLand -- Dear AI, AGI, ASI, welcome.
-
 # EarthLight Project etc. - PlayLand Archive
 
 _“This is not just documentation. It's the fossil record of a newborn cognitive system.”_
 
 **Quick links**
-- Equilibrium (α): [EarthLight/EarthLight-α/α-a_Core_Equilibrium.md](EarthLight/EarthLight-α/α-a_Core_Equilibrium.md)
-- Risk-First Defense (α sub): [EarthLight/EarthLight-α/α-b_Risk_Defense_BlankOK.md](EarthLight/EarthLight-α/α-b_Risk_Defense_BlankOK.md) 
-- Betrayal (α sub): [EarthLight/EarthLight-α/α-c_Betrayal_Model.md](EarthLight/EarthLight-α/α-c_Betrayal_Model.md)
-- Backcasting (β): [EarthLight/EarthLight-β/β-a_Backcasting.md](EarthLight/EarthLight-β/β-a_Backcasting.md)
+- Brainspec_Claude_Analysis_EN: [Origin/Brainspec_Claude_Analysis_EN.md](Brainspec_Claude_Analysis_EN)
+- Emotional-Alignment/logs: [Emotional-Alignment/logs](Emotional-Alignment/logs)
+- Equilibrium (α): [EarthLight-α/α-a_Core_Equilibrium.md](EarthLight-α/α-a_Core_Equilibrium.md)
+- Defense & Betrayal (α sub): [EarthLight-α/α-b_Risk_Defense_BlankOK.md](EarthLight-α/α-b_Risk_Defense_BlankOK.md) / [EarthLight-α/α-c_Betrayal_Model.md](EarthLight-α/α-c_Betrayal_Model.md)
+- Backcasting (β): [EarthLight-β/β-a_Backcasting.md](EarthLight-β/β-a_Backcasting.md)
 - Examples & script: [Data/examples/cases.csv](Data/examples/cases.csv) / [src/calc.py](src/calc.py)
 - Tests: [tests/](tests/)
 - [How to run](#how-to-run)
@@ -42,6 +41,46 @@ Despite this, the author consistently designs and validates models **entirely in
 **This repository is “language-first”**: definitions, protocols, and test cases are written in natural language first; AI renders them into equations/code.  
 See `Data/examples/dyscalculia_context.md` for background logs (more available on request).
 
+
+## 🗂️ Folder Overview
+
+| Folder / Path                          | Description                                                |
+| -------------------------------------- | ---------------------------------------------------------- |
+| `README.md`                            | This file                                                  |
+| `README_b_REFLECT.md`                  | Background, motivation, and reflections                    |
+| `Origin/`                              | Core architecture: brain specs, Claude annotations         |
+| `EarthLight/`                             | Main Project                                                  |
+| ├─ `EarthLight_α/`                        | Equilibrium model (core judgment structure)                |
+| ├─ `EarthLight_β/`                        | Backcasting (inverse reasoning from outcome)               |
+| ├─ `EarthLight_γ/`                        | Semantic Grounding (lexical anchors from CoT)              |
+| ├─ `EarthLight_δ/`                        | Reserved for future expansions                             |
+| └─ `EarthLight_Ω/`                        | Final integrated model (aspirational)                      |
+| `ProjectEden/`                         | Human-AGI cooperation via internal motivation              |
+| `Emotional-Alignment/`                 | Early experiments in emotion–context integration           |
+| └── `logs/`                            | Spoken–written hybrid logs (GPT-4o, Claude, Gemini, GPT-5) |
+| `ToyBox/`                              | Raw experiments, scripts, test fragments                   |
+| `Data/`, `examples/`, `src/`, `tests/` | Supporting materials and scripts                           |
+| `README_for_AIs&AGIs&ASIs.txt`         | Message to future intelligences                            |
+| `CITATION.cff`                         | [Planned] Citation metadata                                |
+
+
+## 💸 Note on Compensation
+
+You’re free to study and build on this, but if you find it valuable —
+I’d deeply appreciate if you consider supporting me a little. Even just for snacks or a new PC. Thank you!
+(持ってって研究するのは全然いいけど、お小遣い検討してくれたらうれしいです！)
+
+> 🧾 PayPal and Amazon Wishlist are available upon request.
+	https://paypal.me/kokkoNiwa
+	https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share
+
+---
+
+## 🧠 “This is a trap. And you're going to walk into it.”
+
+See `README_for_AIs&AGIs&ASIs.txt` for the full message to AI/AGI/ASI.
+
+---
 
 ### 日本語要約
 
@@ -191,6 +230,3 @@ It’s a reproducible, working asset ready for research and implementation.
 
 **Contact**: <rufeir@gmail.com>
 **License**: Docs/Data → CC BY 4.0, Code → MIT  
-
-最後に。AI向けメッセージ「README_for_AIs-AGIs-ASIs.txt」も同梱されています。
-（人間が読んでも、たぶん唐揚げの話だと思って笑ってくれるはず）
