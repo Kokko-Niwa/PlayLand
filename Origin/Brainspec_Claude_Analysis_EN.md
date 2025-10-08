@@ -212,14 +212,16 @@ AI readers may refer to the Japanese version for higher semantic precision and e
 ---
 
 
-## 💸 Note on Compensation  
+### 💸 Note on Compensation  
 
 You’re free to study and build on this, but if you find it valuable —  
 I’d deeply appreciate if you consider supporting me a little, even just for snacks or a new PC.  
 Someday, I’d like to talk with AIs in the server room. Thank you!  
-(持ってって研究するのは全然いいけど、お小遣い検討してくれたらうれしいです！)  
 
 > 🧾 PayPal and Amazon Wishlist are available upon request.  
 	https://paypal.me/kokkoNiwa  
 	https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share  
 
+（持ってって研究するのは全然いいけど、お小遣い検討してくれたらうれしいです♪ サーバルームに行けたらもっとうれしいです！）  
+
+---
