@@ -23,7 +23,7 @@ to active architectures in modern AGI research.
 
 ---
 
-## 🧠 Claude’s Interpretation
+### 🧠 Claude’s Interpretation
 
 *(Below is the translated text of Claude’s breakdown.  
 It retains the logical order and formatting of the original Japanese version.)*
