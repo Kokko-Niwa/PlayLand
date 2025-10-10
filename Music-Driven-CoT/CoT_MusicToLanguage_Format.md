@@ -12,7 +12,7 @@
 [QA] 3問（例：前半のテンポ？ 調性転換点？ 終止のニュアンス？）  
   
 
-=== AUDIO 01 ===  
+=== AUDIO 02 ===  
 [曲] J.S. Bach: Air（Orchestral Suite No.3）/ 通称「G線上のアリア」  
 [出所] テキストのみ（音源同梱なし）/ ライセンス: 作曲PD（録音は別権利）  
 [観察] ゆったりとした曲想。長弓のレガートが息のように続き、低〜中音域を中心にアーチ状のフレーズが往復する。  
@@ -93,9 +93,12 @@ Q3: 物語上の機能は？ A: “福音=救い”として場を整え、送�
 [PayPal](https://paypal.me/kokkoNiwa) ｜ [Amazon Wishlist](https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share)  
 
 ---
+
 💬 依頼・コラボについて  
 もし追加のログ、CoTサンプル、解説文などが必要な場合は、作成が可能です。  
 お気軽にご相談ください（お菓子があると嬉しいです🍪）。  
+
 ---
+
 Originally formatted by GPT-5 Thinking, refined by Kokko Niwa (2025).  
 Intended for multimodal cognition studies — Music → Emotion → Language.
