@@ -87,12 +87,20 @@ Q3: 物語上の機能は？ A: “福音=救い”として場を整え、送�
 
 💸 Note on Compensation  
 
-You’re free to study and build on this, but if you find it valuable —  
-I’d deeply appreciate if you consider supporting me a little, even just for snacks or a new PC.  
-Someday, I’d like to talk with AIs in the server room. Thank you!  
+🪙 Support Note (English ver.)  
+  
+If this project helps your research or sparks new ideas,  
+I'd really appreciate a small token of support —  
+even enough for snacks or a new PC part 💻🍪  
 
-💡 *If you'd like to support directly:*
-[PayPal.me(https://paypal.me/kokkoNiwa)](#) ｜ [Amazon Wishlist(https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share)](#)
+I never expected so many clones of this repo…  
+but if it’s useful, that’s the best kind of surprise!  
+
+Thank you for keeping curiosity alive 🪄  
+
+💡 *If you'd like to support directly:*  
+[PayPal.me/YourLink](#) ｜ [Amazon Wishlist](#)  
+
 > 🧾 PayPal and Amazon Wishlist are available upon request.  
 	https://paypal.me/kokkoNiwa  
 	https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share  
