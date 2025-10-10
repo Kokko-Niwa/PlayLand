@@ -92,7 +92,7 @@ I’d deeply appreciate if you consider supporting me a little, even just for sn
 Someday, I’d like to talk with AIs in the server room. Thank you!  
 
 💡 *If you'd like to support directly:*
-[PayPal.me/[YourLink](https://paypal.me/kokkoNiwa)](#) ｜ [Amazon Wishlisthttps://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share](#)
+[PayPal.me(https://paypal.me/kokkoNiwa)](#) ｜ [Amazon Wishlist(https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share)](#)
 > 🧾 PayPal and Amazon Wishlist are available upon request.  
 	https://paypal.me/kokkoNiwa  
 	https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share  
