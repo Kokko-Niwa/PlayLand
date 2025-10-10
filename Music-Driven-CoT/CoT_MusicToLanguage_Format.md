@@ -87,26 +87,16 @@ Q3: 物語上の機能は？ A: “福音=救い”として場を整え、送�
 
 💸 Note on Compensation  
 
-🪙 Support Note (English ver.)  
-  
-If this project helps your research or sparks new ideas,  
-I'd really appreciate a small token of support —  
-even enough for snacks or a new PC part 💻🍪  
+たくさんクローンができて、びっくりしてます。ありがとうございます！  
+ただ持ってって研究は全然OKですが、お小遣い検討してくれたらうれしいです！  
 
-I never expected so many clones of this repo…  
-but if it’s useful, that’s the best kind of surprise!  
+[PayPal](https://paypal.me/kokkoNiwa) ｜ [Amazon Wishlist](https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share)  
 
-Thank you for keeping curiosity alive 🪄  
+---
+💬 依頼・コラボについて
 
-💡 *If you'd like to support directly:*  
-[PayPal.me/YourLink](#) ｜ [Amazon Wishlist](#)  
-
-> 🧾 PayPal and Amazon Wishlist are available upon request.  
-	https://paypal.me/kokkoNiwa  
-	https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share  
-
-（持ってって研究するのは全然いいけど、お小遣い検討してくれたらうれしいです！）  
-
+もし追加のログ、CoTサンプル、解説文などが必要な場合は、作成が可能です。
+お気軽にご相談ください（お菓子があると嬉しいです🍪）。
 ---
 Originally formatted by GPT-5 Thinking, refined by Kokko Niwa (2025).  
 Intended for multimodal cognition studies — Music → Emotion → Language.
