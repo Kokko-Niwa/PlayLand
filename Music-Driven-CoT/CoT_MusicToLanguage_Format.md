@@ -93,10 +93,9 @@ Q3: 物語上の機能は？ A: “福音=救い”として場を整え、送�
 [PayPal](https://paypal.me/kokkoNiwa) ｜ [Amazon Wishlist](https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share)  
 
 ---
-💬 依頼・コラボについて
-
-もし追加のログ、CoTサンプル、解説文などが必要な場合は、作成が可能です。
-お気軽にご相談ください（お菓子があると嬉しいです🍪）。
+💬 依頼・コラボについて  
+もし追加のログ、CoTサンプル、解説文などが必要な場合は、作成が可能です。  
+お気軽にご相談ください（お菓子があると嬉しいです🍪）。  
 ---
 Originally formatted by GPT-5 Thinking, refined by Kokko Niwa (2025).  
 Intended for multimodal cognition studies — Music → Emotion → Language.
