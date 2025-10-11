@@ -102,9 +102,9 @@ Q3: Narrative function? A: “Gospel = salvation,” preparing and sending off. 
 
 ---
 
-## 💸 Support & Compensation  
+### 💸 Support & Compensation  
 
-### 🪙 Support Note   
+#### 🪙 Support Note   
 
 I never expected so many clones of this repo…  
 that’s the best kind of surprise!  
@@ -120,7 +120,7 @@ Thank you for keeping curiosity alive 🪄
 
 ---
 
-## 💬 Collaboration / Requests  
+#### 💬 Collaboration / Requests  
 
 If you need additional logs, CoT samples, or explanatory notes, I can create them.  
 Feel free to reach out (snacks make me extra happy 🍪).  
