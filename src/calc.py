@@ -1,36 +1,30 @@
-# src/calc.py
+import csv, math, sys
 
-import csv, os
+EPS = 1e-6
+LMB = 1.0
 
-CSV_PATH = os.path.join("Data", "examples", "cases.csv")
-EPS = 1e-9
+def priority(E, R, D, H, eps=EPS, lmb=LMB):
+    return 1.0 / (E + R + D + lmb*H + eps)
 
-def priority(E, R, D, H, lam): return 1.0 / (E + R + D + lam * H + EPS)
-def virtue(C, R, E):         return (C - R) * (C / (R + E + EPS))
+def virtue(C, R, E, eps=EPS):
+    return (C - R) * (C / (R + E + eps))
 
-if not os.path.exists(CSV_PATH):
-    print(f"[ERROR] not found: {CSV_PATH}")
-    raise SystemExit(1)
+def f(x):  # safe float
+    try:
+        return float(x)
+    except:
+        return 0.0
 
-with open(CSV_PATH, "r", encoding="utf-8-sig", newline="") as f:
-    sample = f.read(1024); f.seek(0)
-    dialect = csv.Sniffer().sniff(sample, delimiters=",;\t")
-    rdr = csv.DictReader(
-        (ln for ln in f if not ln.strip().startswith("```")),
-        dialect=dialect
-    )
+def main(path="Data/examples/cases.csv"):
+    with open(path, encoding="utf-8") as fp:
+        for row in csv.DictReader(fp):
+            case = row.get("case_id","(no id)")
+            C = f(row.get("C",0)); R = f(row.get("R",0)); E = f(row.get("E",0))
+            D = f(row.get("D",0)); H = f(row.get("H",0))
+            pr = priority(E,R,D,H)
+            vt = virtue(C,R,E)
+            print(f"{case}  priority={pr:.4f}  virtue={vt:.4f}")
 
-    rows = 0
-    for r in rdr:
-        rows += 1
-        lam = r.get("lambda") or r.get("lam") or r.get("λ")
-        C, R, E, D, H, lam = map(float, (r["C"], r["R"], r["E"], r["D"], r["H"], lam))
-        p = priority(E, R, D, H, lam)
-        v = virtue(C, R, E)
-        print(r["case_id"], "priority=", round(p, 4), "virtue=", round(v, 4))
-
-    if rows == 0:
-        print("[WARN] no data rows read. Make sure the first line of cases.csv is:")
-        print("case_id,context,C,R,E,D,H,lambda")
-if __name__ == "__main__":
-    run()
+if __name__=="__main__":
+    path = sys.argv[1] if len(sys.argv)>1 else "Data/examples/cases.csv"
+    main(path)
