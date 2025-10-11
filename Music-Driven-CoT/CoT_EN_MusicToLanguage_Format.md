@@ -104,22 +104,19 @@ Q3: Narrative function? A: “Gospel = salvation,” preparing and sending off. 
 
 ## 💸 Support & Compensation  
 
-### 🪙 Support Note (EN)  
+### 🪙 Support Note   
+
+I never expected so many clones of this repo…  
+that’s the best kind of surprise!  
 
 If this project helps your research or sparks new ideas,  
 I’d really appreciate a small **token of support** —  
 even enough for snacks or a new PC part 💻🍪  
 
-I never expected so many clones of this repo…  
-but if it’s useful, that’s the best kind of surprise!  
-
 Thank you for keeping curiosity alive 🪄  
 
 **Direct support:**  
 [PayPal](https://paypal.me/kokkoNiwa) ｜ [Amazon Wishlist](https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share)  
-
-> Studying and building on this is totally fine —  
-> if you find value, please consider a little support. It means a lot!  
 
 ---
 
