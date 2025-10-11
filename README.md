@@ -3,6 +3,15 @@
 _“This is not just documentation. It's the fossil record of a newborn cognitive system.”_
 
 **Quick links**
+
+## EarthLight suite  
+- EarthLight-α (Equilibrium, Risk & Routing): [EarthLight-α/README.md](EarthLight-α/README.md)  
+  - Core Equilibrium: [EarthLight-α/α-a_Core_Equilibrium.md](EarthLight-α/α-a_Core_Equilibrium.md)  
+  - Risk-First Defense (Blank-OK): [EarthLight-α/α-b_Risk_Defense_BlankOK.md](EarthLight-α/α-b_Risk_Defense_BlankOK.md)  
+  - Betrayal/Deception: [EarthLight-α/α-c_Betrayal_Model.md](EarthLight-α/α-c_Betrayal_Model.md)  
+  - RCRS (Upstream responsibility): [EarthLight-α/α-d_RCRS_Module.md](EarthLight-α/α-d_RCRS_Module.md)  
+
+## Others   
 - Brainspec_Claude_Analysis_EN: [Origin/Brainspec_Claude_Analysis_EN.md](Brainspec_Claude_Analysis_EN)  
 - Emotional-Alignment/logs: [Emotional-Alignment/logs](Emotional-Alignment/logs)  
 - Equilibrium (α): [EarthLight-α/α-a_Core_Equilibrium.md](EarthLight-α/α-a_Core_Equilibrium.md)  
@@ -195,15 +204,16 @@ python src\calc.py
 ```
 
 **macOS / Linux**
-```bash
+```
 python3 src/calc.py
 ```
 
 **Expected output**
-```text
-ff14_ta_01 priority= 3.3333 virtue= 1.6  
-ff11_ose_01 priority= 3.8571 virtue= 0.714  
-daily_mgmt_01 priority= 3.3333 virtue= 1.4
+```
+ff14_ta_01  priority=3.3333  virtue=1.6000
+ff11_ose_01  priority=2.0000  virtue=0.4667
+daily_mgmt_01  priority=3.3333  virtue=1.4000
+
 ```
 
 
