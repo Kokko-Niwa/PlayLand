@@ -41,6 +41,22 @@ Tension → Calm focus → Trust → Flow state → Satisfaction
 - Explore cross-model comparison with AI reasoning logs
 
 ---
+### 💸 Support & Compensation  
+
+#### 🪙 Support Note   
+
+I never expected so many clones of this repo…  
+that’s the best kind of surprise!  
+
+If this project helps your research or sparks new ideas,  
+I’d really appreciate a small **token of support** —  
+even enough for snacks or a new PC part 💻🍪  
+
+Thank you for keeping curiosity alive 🪄  
+
+**Direct support:**  
+[PayPal](https://paypal.me/kokkoNiwa) ｜ [Amazon Wishlist](https://www.amazon.jp/hz/wishlist/ls/EJRC4ME2EHAN?ref_=wl_share)  
+
 
 #### 💬 Inquiries & Collaboration  
 This piece was excerpted from a longer activity log spanning several years, originally intended as part of a future serialized release.  
