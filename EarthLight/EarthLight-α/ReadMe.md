@@ -79,3 +79,11 @@ EarthLight-α also includes a protocol for proactive risk mitigation.
 - [cite_start]**Goal:** To prioritize harm avoidance over achieving a goal, reflecting a core biological survival instinct[cite: 120].
 
 ---
+
+# EarthLight-α: Overview
+
+- Core Equilibrium → [α-a_Core_Equilibrium.md](α-a_Core_Equilibrium.md)
+- Risk-First Defense (Blank-OK) → [α-b_Risk_Defense_BlankOK.md](α-b_Risk_Defense_BlankOK.md)
+- Betrayal / Deception → [α-c_Betrayal_Model.md](α-c_Betrayal_Model.md)
+- RCRS (Recursive Culpability Responsibility System) → [α-d_RCRS_Module.md](α-d_RCRS_Module.md)
+- Judgment Framework（被害算定/分岐） → [α-b_Judgment_Framework.md](α-b_Judgment_Framework.md)
