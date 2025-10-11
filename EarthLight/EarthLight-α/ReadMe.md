@@ -86,4 +86,4 @@ EarthLight-α also includes a protocol for proactive risk mitigation.
 - Risk-First Defense (Blank-OK) → [α-b_Risk_Defense_BlankOK.md](α-b_Risk_Defense_BlankOK.md)
 - Betrayal / Deception → [α-c_Betrayal_Model.md](α-c_Betrayal_Model.md)
 - RCRS (Recursive Culpability Responsibility System) → [α-d_RCRS_Module.md](α-d_RCRS_Module.md)
-- Judgment Framework（被害算定/分岐） → [α-b_Judgment_Framework.md](α-b_Judgment_Framework.md)
+
