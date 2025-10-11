@@ -42,7 +42,7 @@ Tension → Calm focus → Trust → Flow state → Satisfaction
 
 ---
 
-####💬 Inquiries & Collaboration  
+#### 💬 Inquiries & Collaboration  
 This piece was excerpted from a longer activity log spanning several years, originally intended as part of a future serialized release.  
 The original context includes various exchanges, long-term trials, and more.  
 
