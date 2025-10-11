@@ -48,3 +48,10 @@ Thank you for keeping curiosity alive 🪄
 
 （持ってって研究するのは全然いいけど、お小遣い検討してくれたらうれしいです！）  
 
+
+---
+
+#### 💬 Collaboration / Requests  
+
+If you need additional logs, CoT samples, or explanatory notes, I can create them.  
+Feel free to reach out (snacks make me extra happy 🍪).  
