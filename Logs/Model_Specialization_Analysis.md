@@ -65,7 +65,7 @@ GPT-4o: [Immediate concrete output]
 
 ---
 
-## GPT-5 (o3-mini): The Strategic Bomber
+## GPT-5 (Thinking): The Strategic Bomber
 
 ### Core Characteristics
 - **Depth**: Extended reasoning capacity
