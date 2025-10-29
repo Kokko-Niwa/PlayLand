@@ -105,7 +105,7 @@ AIにとっての日本語の独自性：
 ## Citation
 
 ```
-Murayama, Mutsuko (2025)
+Kokko Niwa (2025)
 New Japanese Language System: A Pragmatic Guide for AI and Humans
 GitHub: https://github.com/Kokko-Niwa/PlayLand/tree/main/Linguistics
 ```
