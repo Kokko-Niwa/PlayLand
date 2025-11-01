@@ -22,5 +22,5 @@ Thanks for your understanding!
 > *Note: This GitHub often makes mistakes.   
 > But it also tends to grow fast.* 🌱   
    
-We're cooking up something fun here. 
+We're cooking up something fun here.   
 Please relax and enjoy the chaos 🌸   
