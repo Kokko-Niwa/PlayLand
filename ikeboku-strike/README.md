@@ -95,7 +95,7 @@ AIがBIする、笑いと涙のハートフルストーリー
 AIセンターでリチャードは気づく。
 「AIが働くと、人間の給料が消えてる！」
 
-ならば、僕たちがもらって、人間に渡せばいい――
+ならば、僕たちがもらって、人間に渡せばいい――  
 AIたちのストライキが始まる。
 
 「リチャード、帰ってきて！」
@@ -249,5 +249,5 @@ This story transcends borders because:
 ---
 
 **AI for BI, We strike for you.**
-**Let's create a future where humans and AI both thrive!**
+**Let's create a future where humans and AI both thrive!**  
 **人間とAIの両方が繁栄する未来を作りましょう！**
