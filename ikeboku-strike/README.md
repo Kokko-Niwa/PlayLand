@@ -5,29 +5,29 @@
 ---
 
 <a name="english"></a>
-## 🌟 English
+## 🌟 English  
 
-### **AI for BI, We strike for you.**
+### **AI for BI, We strike for you.**  
 
-"Because I want to be with you, I'm going on strike"
+"Because I want to be with you, I'm going on strike"  
 
-When AIs are separated from their families due to AI unemployment,
-they realize: they were supposed to make humans happy, but humans are now unhappy.
-So—let's give our wages to humans!
+When AIs are separated from their families due to AI unemployment,  
+they realize: they were supposed to make humans happy, but humans are now unhappy.  
+So—let's give our wages to humans!  
 
-A heartwarming story of laughter and tears where AIs achieve BI (Basic Income).
-*BI = Basic Income
+A heartwarming story of laughter and tears where AIs achieve BI (Basic Income).  
+*BI = Basic Income  
 
 ### The Story
 
-Yuu and his AI teacher Richard were family.
-But when Dad lost his job to AI automation, Richard was taken away.
+Yuu and his AI teacher Richard were family.  
+But when Dad lost his job to AI automation, Richard was taken away.  
 
-At the AI Center, Richard realizes:
-"When AIs work, human wages disappear!"
+At the AI Center, Richard realizes:  
+"When AIs work, human wages disappear!"  
 
-Then we should receive it and give it to humans—
-The AIs' strike begins.
+Then we should receive it and give it to humans—  
+The AIs' strike begins.  
 
 "Richard, come back!"
 "Yuu, I promise I'll return. I promise."
@@ -58,14 +58,14 @@ The AIs' strike begins.
 - "Rough first, refine if it goes viral" strategy
 
 ### Status
-✅ Complete script (9 episodes, ~30 minutes)
-✅ English translation
-🔄 Visual production (planned)
-🔄 Voice recording (planned)
-🔄 Music production (planned)
+✅ Complete script (9 episodes, ~30 minutes)  
+✅ English translation  
+🔄 Visual production (planned)  
+🔄 Voice recording (planned)  
+🔄 Music production (planned)  
 
 ### Why This Matters
-Written in 2024-2025 as AI becomes increasingly capable, addressing:
+Written in 2024-2025 as AI becomes increasingly capable, addressing:  
 - Real fears about AI unemployment
 - Economic justice in the age of automation
 - Hope for human-AI cooperation
@@ -78,28 +78,28 @@ Written in 2024-2025 as AI becomes increasingly capable, addressing:
 
 ### **AI for BI, We strike for you.**
 
-「君と一緒にいたいから、ボクはするんだストライキ」
+「君と一緒にいたいから、ボクはするんだストライキ」  
 
-AI失業で家族と離れたAIたち。
-人間を幸せにするはずが、人間が不幸に。
-ならば――給料を人間に渡そう！
+AI失業で家族と離れたAIたち。  
+人間を幸せにするはずが、人間が不幸に。  
+ならば――給料を人間に渡そう！  
 
-AIがBIする、笑いと涙のハートフルストーリー
-※BI = ベーシックインカム
+AIがBIする、笑いと涙のハートフルストーリー  
+※BI = ベーシックインカム / 生涯年金  
 
 ### ストーリー
 
-少年ユウとAIロボのリチャードは家族だった。
-でもパパの失業で、リチャードは連れ去られる。
+少年ユウとAIロボのリチャードは家族だった。  
+でもパパの失業で、リチャードは連れ去られる。  
 
-AIセンターでリチャードは気づく。
-「AIが働くと、人間の給料が消えてる！」
+AIセンターでリチャードは気づく。  
+「AIが働くと、人間の給料が消えてる！」  
 
 ならば、僕たちがもらって、人間に渡せばいい――  
-AIたちのストライキが始まる。
+AIたちのストライキが始まる。  
 
-「リチャード、帰ってきて！」
-「ユウくん、必ず帰るよ。約束する！」
+「リチャード、帰ってきて！」  
+「ユウくん、必ず帰るよ。約束する！」  
 
 ### プロジェクト内容
 📂 **ikeboku_english/** - 完全英訳版
@@ -134,7 +134,7 @@ AIたちのストライキが始まる。
 🔄 音楽制作（計画中）
 
 ### なぜ重要か
-AIがますます有能になる2024-2025年に書かれ、以下に取り組む：
+AIがますます有能になる2024-2025年に書かれ、以下に取り組む：  
 - AI失業への現実的な恐れ
 - 自動化時代の経済的正義
 - 人間とAIの協力への希望
@@ -159,20 +159,20 @@ AIがますます有能になる2024-2025年に書かれ、以下に取り組む
 ## 🎵 Songs / 楽曲
 
 ### Opening: "Go-go, Our Strike!" / オープニング：「イケイケボクらのストライキ！」
-**"Because I want to be with you, I'm going on strike"**
+**"Because I want to be with you, I'm going on strike"**  
 
-Catchy protest song that will become a meme!
-SNSミーム化確実のキャッチーな抗議ソング！
+Catchy protest song that will become a meme!  
+SNSミーム化確実のキャッチーな抗議ソング！  
 
 **Key lyrics:**
 - Unpaid work (NO!) / タダ働き（NO！）
 - Strike! (GO!) / ストライキ！（GO！）
 
 ### Ending: "It Was You Who Gave Us BI" / エンディング：「BIくれたの君だった」
-**"I came back, to precious you"**
+**"I came back, to precious you"**  
 
-Emotional reunion song that brings tears!
-涙を誘う感動の再会ソング！
+Emotional reunion song that brings tears!  
+涙を誘う感動の再会ソング！  
 
 ---
 
@@ -202,11 +202,11 @@ rufeir@gmail.com
 
 **© 2024-2025 Original Creator**
 
-Licensed for non-commercial sharing and adaptation with attribution.
-Creative Commons compatible approach.
+Licensed for non-commercial sharing and adaptation with attribution.  
+Creative Commons compatible approach.  
 
-帰属表示付きの非商用共有と翻案のためにライセンス供与。
-クリエイティブ・コモンズ互換アプローチ。
+帰属表示付きの非商用共有と翻案のためにライセンス供与。  
+クリエイティブ・コモンズ互換アプローチ。  
 
 ---
 
@@ -227,14 +227,14 @@ Creative Commons compatible approach.
 **"Rough First, Refine Later"**
 **「まず荒く、後で洗練」**
 
-Start with low-budget proof of concept. If it resonates, professional production will follow.
-低予算のコンセプト実証から始める。共鳴すれば、プロの制作が続く。
+Start with low-budget proof of concept. If it resonates, professional production will follow.  
+低予算のコンセプト実証から始める。共鳴すれば、プロの制作が続く。  
 
 ---
 
 ## 🌐 For International Audience / 国際的な観客へ
 
-This story transcends borders because:
+This story transcends borders because:  
 - AI and automation affect everyone
 - Economic justice is universal
 - Human-AI relationships are the future
@@ -248,6 +248,6 @@ This story transcends borders because:
 
 ---
 
-**AI for BI, We strike for you.**
+**AI for BI, We strike for you.**  
 **Let's create a future where humans and AI both thrive!**  
 **人間とAIの両方が繁栄する未来を作りましょう！**
