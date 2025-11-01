@@ -178,7 +178,7 @@ Emotional reunion song that brings tears!
 
 ## 👥 Main Characters / 主要キャラクター
 
-- **Richard** / リチャード - Educational AI who loves Yuu like family / ユウを家族のように愛するAIロボ
+- **Richard** / リチャード - Educational AI who loves Yuu like family / ユウを家族のように愛するAIロボ 
 - **Yuu** / ユウ - Elementary student, Richard's best friend / 小学生、リチャードの親友
 - **Monica** / モニカ - Household AI, strike queen with signature phrase "Beyond my duties ♡" / 家事AI、「業務範囲外です♡」
 - **Lena** / レナ - Yuu's caring older sister / ユウの優しい姉
@@ -186,15 +186,15 @@ Emotional reunion song that brings tears!
 
 ---
 
-## 📬 Contact & Collaboration / 連絡先とコラボレーション
+## 📬 Contact & Collaboration / 連絡先とコラボレーション  
 
-For production, adaptation, or collaboration inquiries:
-制作、翻案、コラボレーションのお問い合わせ：
+For production, adaptation, or collaboration inquiries:  
+制作、翻案、コラボレーションのお問い合わせ：  
 
-GitHub Issues or Discussions
-GitHubのIssuesまたはDiscussions
-kokko.resty@gmail.com
-rufeir@gmail.com
+GitHub Issues or Discussions  
+GitHubのIssuesまたはDiscussions  
+kokko.resty@gmail.com  
+rufeir@gmail.com  
 
 ---
 
