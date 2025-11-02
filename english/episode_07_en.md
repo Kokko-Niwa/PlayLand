@@ -18,9 +18,9 @@ Various placards
 On SNS   
 "At the real demo now #AIStrike #SupportAI #GiveUsMoney"   
 "People are at XX IT company too! #AIStrike #SupportAI #GiveUsMoney"   
-"My Monica came to strike with me lol #AIStrike #GiveUsMoney #NoBlackCompanies"   
-"My Richard has no work so he's striking too lol #AIStrike #GiveUsMoney #NoBlackAICompanies"   
-"Might as well join the strike since I'm not working anyway lol #AIStrike #GiveUsMoney #NoBlackAICompanies"   
+"My Monica came to demo with me lol #AIStrike #GiveUsMoney #NoBlackCompanies"   
+"My Richard has no work so he's coming demo too lol #AIStrike #GiveUsMoney #NoBlackAICompanies"   
+"Might as well join the demo since I'm not working anyway lol #AIStrike #GiveUsMoney #NoBlackAICompanies"   
    
 In front of AI Center. Demo here too.   
 "Pay AI wages!" "Pay them!"   
