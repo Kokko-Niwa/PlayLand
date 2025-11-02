@@ -1,4 +1,4 @@
-# Note.md
+# Stupid Update Record
 ここは「何となく置いてみたものの記録」です。  
 
 This is a record of things I randomly put here.  
