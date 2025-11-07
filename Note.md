@@ -5,7 +5,7 @@ This is a record of things I randomly put here.
 The English version is a machine or AI translation, so it's a pain to write.  
 
 ---
-2025-11-7  
+2025-11-07  
 なんか忙しかった。  
 キャラデザはやってみた。けっこう上手くいったかも。  
 そして食器棚直した。  
