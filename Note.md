@@ -5,6 +5,16 @@ This is a record of things I randomly put here.
 The English version is a machine or AI translation, so it's a pain to write.  
 
 ---
+2025-11-7
+なんか忙しかった。  
+キャラデザはやってみた。けっこう上手くいったかも。  
+そして食器棚直した。  
+
+I've been busy.  
+I tried my hand at character design. It turned out pretty well.  
+And I fixed the cupboard.  
+
+---
 
 2025-11-03  
 面倒だからMainにイケボクENフォルダ掘った。あとで考える。  
