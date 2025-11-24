@@ -9,10 +9,12 @@ The English version is a machine or AI translation, so it's a pain to write.
 通信制大学の中間考査ヤバイ  
 あさって締め切り、でも何とか間に合いそう  
 引っ越した子供が来て、カキフライだけ食べて帰った  
+食器棚は送った  
 
 My midterm exams at my correspondence university are crazy.  
 They're due the day after tomorrow, but I think I can make it.  
 My kid who moved here came over, and all he had was fried oysters.  
+I also sent him the cupboard.  
 
 ---
 2025-11-07  
