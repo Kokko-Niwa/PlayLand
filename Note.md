@@ -5,7 +5,7 @@ This is a record of things I randomly put here.
 The English version is a machine or AI translation, so it's a pain to write.  
 
 ---
-2025-11-24 
+2025-11-24  
 通信制大学の中間考査ヤバイ  
 あさって締め切り、でも何とか間に合いそう  
 引っ越した子供が来て、カキフライだけ食べて帰った  
