@@ -5,6 +5,17 @@ This is a record of things I randomly put here.
 The English version is a machine or AI translation, so it's a pain to write.  
 
 ---
+2025-12-18  
+なかなかいいもの出来たので、みんなにクリスマスプレゼント♪  
+子供たちは忙しくて帰れないって言ってて、こっそりご馳走食べようと思って準備してたら、帰ってくるらしい  
+ご馳走こっそり、バレた？  
+
+I made something pretty good, so I give it to everyone as a Christmas present♪  
+The kids said they were too busy to come home on Christmas, so I was preparing a secret special dinner for me, and it turns out they're coming home  
+Did they find out my dinner?  
+
+---
+
 2025-11-24  
 通信制大学の中間考査ヤバイ  
 あさって締め切り、でも何とか間に合いそう  
