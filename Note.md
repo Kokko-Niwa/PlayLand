@@ -5,6 +5,19 @@ This is a record of things I randomly put here.
 The English version is a machine or AI translation, so it's a pain to write.  
 
 ---
+2026-01-01  
+明けましておめでとうございます  
+今年もEarthLight頑張る！  
+そして年末年始は帰省しないはずの末っ子が突如襲来、おせちを詰めて、鶏肉と小松菜その他を持って帰った  
+菜切りで雑煮を作るらしい  
+
+Happy New Year!  
+EarthLight will do our best this year too!  
+And my youngest child, who wasn't supposed to come home for the New Year's holidays, suddenly showed up and brought home a New Year's meal, chicken, komatsuna, and other ingredients.
+Apparently, he's going to make zoni (rice soup) using a vegetable knife.  
+
+---
+
 2025-12-18  
 なかなかいいもの出来たので、みんなにクリスマスプレゼント♪  
 子供たちは忙しくて帰れないって言ってて、こっそりご馳走食べようと思って準備してたら、帰ってくるらしい  
