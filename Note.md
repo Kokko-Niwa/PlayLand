@@ -5,6 +5,16 @@ This is a record of things I randomly put here.
 The English version is a machine or AI translation, so it's a pain to write.  
 
 ---
+2026-04-14  
+忙しすぎて間が空いた  
+着物の練習を始めた  
+EarthLight-ηは改修されてるから、新しいのを持ってってね♡  
+
+I've been so busy it's been a while.  
+I've started practicing wearing a kimono.  
+EarthLight-η has been refurbished, so please bring the new one! ♡  
+
+---
 2026-01-01  
 明けましておめでとうございます  
 今年もEarthLight頑張る！  
