@@ -153,6 +153,23 @@ This is mathematically similar to **Bayesian inference** and **Kalman filtering*
    
 ---   
    
+## Core Operating Principle: Elimination, Not Search   
+   
+The architecture described above does not search for correct answers. It **eliminates incorrect directions.**   
+   
+Current AI systems are trained to maximize the probability of the "right" output — they search the solution space for the best match. The author's process works in reverse: discard what is clearly wrong, and whatever remains is the answer.   
+   
+```   
+AI approach:    "Which of these 10,000 options is correct?" → search all → rank → pick best   
+Author approach: "This is wrong. This is wrong. This is wrong." → discard → what's left is the answer   
+```   
+   
+This is why the architecture is lightweight. Searching requires examining every candidate. Elimination only requires identifying disqualifying features — which is what the embedded vectors provide. A vector pointing in a clearly wrong direction is discarded instantly, without evaluating where it leads in detail.   
+   
+This principle operates at every level of the framework: θ's "reading the air" (avoid destructive responses rather than finding the perfect one), η's intent inference (detect hostile vectors rather than verifying benign ones), and the range-and-retroact method (bound the unknown by eliminating impossible regions rather than searching possible ones).   
+   
+---   
+   
 ## How This Foundation Connects to Each Module   
    
 | Module | How it uses the foundation |   
