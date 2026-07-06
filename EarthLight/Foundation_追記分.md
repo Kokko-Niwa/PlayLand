@@ -3,7 +3,24 @@
 **日付:** 2026-06-18   
 **経緯:** 深層学習講義(スケール則〜文脈内学習)を聞きながらの対話で言語化された。   
 本体(EarthLight_Foundation_new)への反映は著者本人が行う。これは反映用の素材。   
-   
+
+---
+
+> **📓 本書の位置づけ / Status of this document**   
+>   
+> 本書は**進行中の観測ログ**(open lab notebook / living document)であり、完成品ではない。   
+> 断章・未解決フラグメント・観測中の事前登録を、未解決のまま含む。それが仕様である。   
+>   
+> - **原本:日本語版(本書)。** 英訳はミラーであり、相違時は日本語が優先する。   
+> - **タイムスタンプの正本:本リポジトリのgitコミット履歴。** 事前登録の証拠力はコミット日時が担う。   
+> - 開いている事前登録の一覧は [PREREGISTRATIONS.md](../PREREGISTRATIONS.md) を参照。   
+>   
+> This is an **open lab notebook**, not a finished work. It deliberately contains unresolved   
+> fragments and open pre-registered predictions. The Japanese text is the master; git commit   
+> history is the timestamp of record. Open predictions: see PREREGISTRATIONS.md.   
+>   
+> 最終更新 / Last updated: 2026-07-06
+
 ---   
    
 ## 追記1：elimination原則の「操作定義」への昇格   
