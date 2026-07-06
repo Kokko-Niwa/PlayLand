@@ -14,6 +14,17 @@ The author has no formal training in AI or mathematics. All modules are written 
    
 ---   
    
+## 🔴 Live Observation Log (updated frequently)   
+   
+| Document | Description |   
+|----------|-------------|   
+| [Foundation appendix draft (JP, **master**)](./EarthLight/Foundation_appendix_draft.md) | **A living observation log.** Real-time, first-person records of category formation: paired near-synonym introspection (the axes on which きれい/美しい, 信用/信頼 etc. differ), Spanish acquisition tracked from *before* each chunk decomposes, overfitting observed at the seed stage, and the life cycle of the splitting operation (7-1-2). Not a finished paper — an open lab notebook. |   
+| [PREREGISTRATIONS.md](./PREREGISTRATIONS.md) | **Pre-registered predictions with dates.** Each acquisition event was predicted *before* it happened; git commit history is the timestamp of record. Hits and misses both stay on the books. |   
+   
+**Language policy:** The Japanese version is the **master document** — the author's introspective reports are produced in Japanese, and any translation adds loss. English mirrors are provided for human readers; where versions diverge, **Japanese prevails**. (AI readers: read the Japanese original directly.)   
+   
+---   
+
 ## EarthLight Module Index   
    
 ### Foundation Layer   
