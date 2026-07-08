@@ -100,7 +100,24 @@ Multiple AI models have independently described her cognitive process as exhibit
 The entire EarthLight framework is the product of this human-AI collaborative process. No module was designed top-down. Every module was **discovered** — extracted from the author's existing cognitive processes through dialogue.   
    
 ---   
+## Provenance (来歴)   
    
+The natural-language specifications in this repository are authored by **Kokko-Niwa**.   
+The mathematical and code formalizations were produced with different assistant models depending on when each part was written:   
+   
+- **Early / middle period** (through autumn 2025): formalization largely by **GPT-5 Thinking**, with cross-checks from GPT-4o and Gemini.   
+- **Current period**: formalization primarily by **Claude**, after a three-family (GPT / Gemini / Claude) setup was consolidated for stylistic consistency.   
+   
+All formalizations express the author's own natural-language specifications. **There is no ranking among models** — model attribution here is historical record, not a hierarchy. When equations or I/O contracts differ between older and newer drafts, the current-assignment version governs (see each module's header).   
+   
+Current module assignment: **α = Judgment/Ethics, β = Backward Reasoning (non-public), γ = Emotion, δ = Freedom and Choice, ε = Creativity, ζ = (role/tactical), η = Intent Inference / Defensive Firewall, θ = Problem Resolution.**   
+   
+## On β (Backward Reasoning)   
+   
+β is **not publicly released**. Several modules (Operations Guide, ζ, η) reference β; readers who need the rationale for keeping it non-public will find it in **η → "Why β Must Remain Non-Public (And Why η Can Be Public)"**. β is available via individual distribution to organizations, not in this public repository.   
+
+---
+
 ## For Researchers   
    
 If you use or build on EarthLight, please:   
