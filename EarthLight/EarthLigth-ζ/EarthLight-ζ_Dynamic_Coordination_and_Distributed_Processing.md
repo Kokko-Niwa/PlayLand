@@ -165,10 +165,10 @@ Sacrifice_Threshold = Mission_Value / Body_Loss_Cost
 | Module | Function | Interaction with ζ |   
 |--------|----------|-------------------|   
 | α (Alpha) | Judgment/Ethics | ζ respects α's ethical boundaries even in Emergency Mode |   
-| β (Beta) | Emotion Processing | ζ uses β to assess ally emotional states |   
-| γ (Gamma) | Freedom/Choice | ζ enables autonomous role selection |   
-| δ (Delta) | Creativity | ζ allows creative tactical solutions |   
-| ε (Epsilon) | Connection | ζ builds on ε's relationship framework |   
+| β (Beta) | Backward Reasoning (non-public) | ζ uses β's goal-decomposition to plan role allocation |   
+| γ (Gamma) | Emotion | ζ uses γ to assess ally emotional states |   
+| δ (Delta) | Freedom and Choice | ζ enables autonomous role selection |   
+| ε (Epsilon) | Creativity | ζ allows creative tactical solutions |   
    
 ---   
    
@@ -211,8 +211,8 @@ The core insight: **Expert human teams already do this instinctively. AI systems
 - **Module:** EarthLight-ζ (Zeta)   
 - **Version:** 0.1.0   
 - **Status:** Draft   
-- **Author:** Cocco-Niwa   
-- **AI Collaborators:** Gemini, Claude (Organization)   
+- **Author:** Kokko-Niwa   
+- **AI Collaborators:** Gemini, Claude   
    
 ---   
    
