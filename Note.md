@@ -5,6 +5,18 @@ This is a record of things I randomly put here.
 The English version is a machine or AI translation, so it's a pain to write.  
 
 ---
+2026-07-10  
+実は2月から、東大の松尾研の公開講座で勉強中。  
+応募したら、なんかOK出た。  
+GCIベーシック修了、GCI寄付講座とDL講座があと少し、フィジカルAIとLLMも  
+だいぶ欲張り  
+
+Actually, I’ve been studying via the University of Tokyo’s Matsuo Lab open courses since February.  
+I applied, and somehow got accepted.  
+I’ve completed GCI Basic, am close to finishing the GCI endowed course and the DL course, and am also tackling Physical AI and LLMs.  
+I’m definitely being quite ambitious.  
+
+---
 2026-04-14  
 忙しすぎて間が空いた  
 着物の練習を始めた  
