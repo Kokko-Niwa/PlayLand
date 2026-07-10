@@ -57,7 +57,7 @@ AI can remove this bug entirely.
 | α-0 (Foundation) | Safety filtering before choice |   
 | α-b (Risk Defense) | Preemptive protection |   
 | α-d (RCRS) | Responsibility attribution on failure |   
-| α-e (Proxy Claim) | Compensation systems |   
+| α-e (Safety Zones) | Supervisory stop-gate before action |   
    
 ---   
    
